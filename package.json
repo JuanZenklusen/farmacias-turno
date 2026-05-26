@@ -1,0 +1,7 @@
+{
+  "name": "farmacias-turno",
+  "version": "1.0.0",
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
